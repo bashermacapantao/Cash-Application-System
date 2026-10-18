@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayFlow", "PayFlow\PayFlow.csproj", "{8ADED171-0967-45CE-8684-D98414EE8C5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ADED171-0967-45CE-8684-D98414EE8C5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ADED171-0967-45CE-8684-D98414EE8C5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ADED171-0967-45CE-8684-D98414EE8C5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ADED171-0967-45CE-8684-D98414EE8C5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0E4E5C2-0E6E-47DA-9057-D61364061013}
+	EndGlobalSection
+EndGlobal
